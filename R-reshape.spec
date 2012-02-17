@@ -4,7 +4,7 @@
 Name:             R-%{packname}
 Version:          0.8.4
 Release:          1
-Summary:          Flexibly reshape data.
+Summary:          Flexibly reshape data
 Group:            Sciences/Mathematics
 License:          MIT
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
