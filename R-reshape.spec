@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.8.4
-Release:          1
+Release:          2
 Summary:          Flexibly reshape data
 Group:            Sciences/Mathematics
 License:          MIT
